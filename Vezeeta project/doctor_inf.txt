@@ -1,0 +1,11 @@
+ENT mohamed 100 5-9 mohamed2018 
+ENT eslam 150 2-5 e 
+pulmonology ali 120 12-5 ali2018 
+pulmonology eman 100 5-10 eman2018 
+ophthalmology adel 90 8-12 adel2018 
+ophthalmology ehab 100	6-12 ehab2018 
+cardiothoracic ahmed 150 6-10 ahmed2018 
+cardiothoracic gamal 125 4-10 gamal2018 
+pediatric amira 230 7-10 amira2018 
+pediatric zaki	500 10-4 zaki2018
+
